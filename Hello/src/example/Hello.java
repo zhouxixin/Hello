@@ -6,7 +6,7 @@ public class Hello {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		System.out.println("Hello, I hate I will be sucessful");
+		System.out.println("Hello, I hate github");
 
 	}
 

@@ -1,4 +1,4 @@
-package example;
+package j.example;
 
 public class Hello {
 
